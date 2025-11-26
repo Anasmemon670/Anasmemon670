@@ -58,8 +58,6 @@
 
 - **Email:** anas.memon.work@gmail.com  
 - **LinkedIn:** [https://www.linkedin.com/in/anas-memon](https://www.linkedin.com/in/anas-memon)  
-- **Portfolio / CodeZyra:** [https://codezyra.com](https://codezyra.com)
-
 ---
 
 > “Building modern, scalable & user-focused apps — one project at a time.”
