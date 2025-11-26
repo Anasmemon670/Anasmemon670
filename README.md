@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammad Anas Memon
+# 👋 Hi, I'm Muhammad Anas
 
 **💻 Web & Mobile App Developer @ CodeZyra**  
 🚀 Passionate about building **modern, scalable, and user-focused applications** with **React, Node.js & JavaScript**.  
